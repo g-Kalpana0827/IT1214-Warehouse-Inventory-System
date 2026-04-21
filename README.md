@@ -36,6 +36,7 @@ This project is created for IT1214 assignment.
 Enter choice: 1
 Updated project description
 Enter ID: I001
+Final update
 Enter Name: Pen
 Enter Quantity: 50
 Enter Price: 20.5
