@@ -32,7 +32,7 @@ It allows users to manage inventory through a console-based menu.
 5. Search by Name
 6. Display All Items
 0. Exit
-
+This project is created for IT1214 assignment.
 Enter choice: 1
 Enter ID: I001
 Enter Name: Pen
