@@ -34,6 +34,7 @@ It allows users to manage inventory through a console-based menu.
 0. Exit
 This project is created for IT1214 assignment.
 Enter choice: 1
+Updated project description
 Enter ID: I001
 Enter Name: Pen
 Enter Quantity: 50
