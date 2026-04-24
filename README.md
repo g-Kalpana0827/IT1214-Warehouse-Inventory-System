@@ -1,7 +1,7 @@
 # Warehouse Inventory Management System
 
 ## Description
-This is a simple Java-based Warehouse Inventory Management System developed using the Java Collections Framework (HashMap).
+This is a simple Java-based Warehouse Inventory Management System developed using the Java Collections Framework (ArrayList).
 
 It allows users to manage inventory through a console-based menu.
 
