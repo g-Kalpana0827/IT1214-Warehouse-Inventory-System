@@ -14,7 +14,7 @@ It allows users to manage inventory through a console-based menu.
 
 ## Technologies Used
 - Java
-- HashMap (Java Collections Framework)
+- ArrayList
 
 ## How to Run
 1. Compile all Java files:
